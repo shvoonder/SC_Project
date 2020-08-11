@@ -1,3 +1,6 @@
+#Ronen,Rozin,318257011
+#Python 3.7.7
+
 from Crypto.Cipher import AES
 
 def xor_bytes(byte1, byte2): 
